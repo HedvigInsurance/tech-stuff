@@ -11,7 +11,7 @@
   - Collective intelligence is a big part of Hedvig's values and we avoid knowledge silos. Looping in the team
     doesn't necesarily mean running everything by them, but we avoid knowledge silos and cowboy decisions.
 
-## As Hevig developers, when developing, we:
+## As Hedvig developers, when developing, we:
 
 - Use automatic testing, and use it lagom
   - Usually automated tests saves us a lot of time and effort, but we recognise when it's time to give up writing
