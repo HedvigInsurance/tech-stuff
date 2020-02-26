@@ -1,6 +1,6 @@
 # Making payments (charges)
 
-The charging should take place 26th of every month before 12 for us to get 
+The charging should take place 26th of every month before 12 for the money to be pulled from the members' accounts on the 27th.
 
 ## Steps
 
