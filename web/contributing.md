@@ -2,8 +2,8 @@
 
 Regarding tech, this is good to know when developing web at Hedvig:
 
-  - Currently we're quite invested in React and would like to keep our tech stack as steamlined as possible, but
-    that doesn't necessarily mean we're not open to new tech. As per our tech values, we're not afraid to
+  - Currently we're quite invested in React and would like to keep our tech stack as streamlined as possible, but
+    we're still open to and experiment with new tech. As per our tech values, we're not afraid to
     experiment with new things but we like battle-tested technologies when possible.
   - We're picky about code style, tests and types - which means:
     - We use TypeScript
@@ -16,7 +16,7 @@ Regarding tech, this is good to know when developing web at Hedvig:
 
 ## Getting your machine ready for web development
 
-We aim to have editor and environment agnostic environments but there's some things you'll need to keep in mind
+We aim to have editor and environment agnostic environments but there are some things you'll need to keep in mind
 when setting up your machine for web development.
 
   - Install Node.js via [NVM](https://github.com/nvm-sh/nvm#installing-and-updating) - in this way you can jump
