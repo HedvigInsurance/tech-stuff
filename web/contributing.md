@@ -16,8 +16,8 @@ Regarding tech, this is good to know when developing web at Hedvig:
 
 ## Getting your machine ready for web development
 
-We aim to have editor and environment agnostic environments but there are some things you'll need to keep in mind
-when setting up your machine for web development.
+Although many use Intellij or WebStorm as editors we aim to have editor agnostic environments
+but there are some things you'll need to keep in mind when setting up your machine for web development.
 
   - Install Node.js via [NVM](https://github.com/nvm-sh/nvm#installing-and-updating) - in this way you can jump
     between Node versions without too much pain. We can't always guarantee to have the same node version requirements
@@ -32,8 +32,8 @@ Check your project's `package.json` for details on which scripts your specific p
 ## RFCs (request for change - contributing to web projects)
 
 Like the rest of tech @ Hedvig we work exclusively with code review and pull requests. The exception might be making very minor
-changes like white-listing a single domain in your project's CSP or similar. Make sure to assign and get signoff someone from the
-[`@HedvigInsurance/www`](https://github.com/orgs/HedvigInsurance/teams/www) team on the pull request. If your change
-is visual feel free to provide a screenshot/screen recording of your change so it's more easy to understand what to expect
-from the code.
+changes like white-listing a single domain in your project's CSP or similar. When making a PR, make sure to assign the
+[`@HedvigInsurance/www`](https://github.com/orgs/HedvigInsurance/teams/www) team to it, and get signoff someone from
+that team before merging. If your change is visual feel free to provide a screenshot/screen recording of your change
+so it's more easy to understand what to expect from the code.
 
