@@ -33,7 +33,6 @@ Check your project's `package.json` for details on which scripts your specific p
 
 Like the rest of tech @ Hedvig we work exclusively with code review and pull requests. The exception might be making very minor
 changes like white-listing a single domain in your project's CSP or similar. When making a PR, make sure to assign the
-[`@HedvigInsurance/www`](https://github.com/orgs/HedvigInsurance/teams/www) team to it, and get signoff someone from
+[`@HedvigInsurance/www`](https://github.com/orgs/HedvigInsurance/teams/www) team to it, and get signoff from someone in
 that team before merging. If your change is visual feel free to provide a screenshot/screen recording of your change
 so it's more easy to understand what to expect from the code.
-
