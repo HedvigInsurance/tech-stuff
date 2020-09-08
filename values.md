@@ -39,4 +39,11 @@
 - Aren't afraid to try new things, but do __evaluate__
 - Value tech that is battle-tested over tech that is new and shiny. Although we value it, that does not mean
   it's our only path
+  
+## As Hedvig developers, when working in sprints, we:
 
+- Try and finish up leftovers from previous sprints first
+- Work without arbitrary deadlines
+- Freeze or cut scope when a deadline is set
+- Increase estimations when scope increase
+- Prefer to have business decisions and design done before starting any development
