@@ -42,8 +42,14 @@
   
 ## As Hedvig developers, when working in sprints, we:
 
+- Do not consider estimates as deadlines
+  - Estimates are a way for us to communicate an educated guess of time we'll spend, nothing else
 - Try and finish up leftovers from previous sprints first
 - Work without arbitrary deadlines
+  - Where a deadlines is considered arbitrary if it without an external dependency
 - Freeze or cut scope when a deadline is set
-- Increase estimations when scope increase
 - Prefer to have business decisions and design done before starting any development
+- Avoid big bang releases 
+  - We rather split up projects into phases of smaller batches or deploy in small iterations
+- Do not jeopardise quality
+  - We rather cut scope, spend more time on the issue or, if applicable, include more developers
