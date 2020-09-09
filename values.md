@@ -46,7 +46,7 @@
   - Estimates are a way for us to communicate an educated guess of time we'll spend, nothing else
 - Try and finish up leftovers from previous sprints first
 - Work without arbitrary deadlines
-  - Where a deadlines is considered arbitrary if it without an external dependency
+  - Where a deadline is considered arbitrary if it without an external dependency
 - Freeze or cut scope when a deadline is set
 - Prefer to have business decisions and design done before starting any development
 - Avoid big bang releases 
