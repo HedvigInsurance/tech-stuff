@@ -58,7 +58,7 @@
 - Follow up on our work in reocurring retrospectives
 - Have continuous QA of the things we build
   - Reviewed by tech, business and design
-- Keep track of hurdles that block our ambitions caused by our system
+- Keep track of hurdles caused by our system that stop us from doing the best solution
 - Measure what we do its impact
   - <Should probably nail how>
 - Celebrate our achievements
