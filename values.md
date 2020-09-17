@@ -40,10 +40,10 @@
 - Value tech that is battle-tested over tech that is new and shiny. Although we value it, that does not mean
   it's our only path
   
-## As Hedvig developers, when working in sprints, we:
+## As Hedvig developers, when working in projects, we:
 
 - Do not consider estimates as deadlines
-  - Estimates are a way for us to communicate an educated guess of time we'll spend, nothing else
+  - An estimate is a forecast of of time we'll spend based on what we currently know, nothing else
 - Finish leftovers from the previous sprint first
   - That is, if the leftovers are unavoidable and we still want to finish them
 - Work without deadlines
@@ -55,3 +55,11 @@
   - And with that avoid big bang project releases 
 - Do not jeopardise quality
   - We would rather cut scope, spend more time on the issue or, if applicable, include more developers
+- Continuously follow up on our WoW in retrospectives
+- Have continuous QA of the things we build
+  - Reviewed by tech, business and design
+- Keep track of hurdles that block our ambitions caused by our system
+- Measure what we do its impact
+  - <Should probably nail how>
+- Celebrate our achievements
+  - Even the small accomplishments deserve to be celebrated
