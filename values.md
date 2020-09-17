@@ -55,7 +55,7 @@
   - And with that avoid big bang project releases 
 - Do not jeopardise quality
   - We would rather cut scope, spend more time on the issue or, if applicable, include more developers
-- Continuously follow up on our WoW in retrospectives
+- Follow up on our work in reocurring retrospectives
 - Have continuous QA of the things we build
   - Reviewed by tech, business and design
 - Keep track of hurdles that block our ambitions caused by our system
