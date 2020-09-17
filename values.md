@@ -44,12 +44,14 @@
 
 - Do not consider estimates as deadlines
   - Estimates are a way for us to communicate an educated guess of time we'll spend, nothing else
-- Try and finish up leftovers from previous sprints first
-- Work without arbitrary deadlines
-  - Where a deadline is considered arbitrary if there's no external dependency
-- Freeze or cut scope when a deadline is set
-- Prefer to have business decisions and design done before starting any development
-- Avoid big bang releases 
-  - We rather split up projects into phases of smaller batches or deploy in small iterations
+- Finish leftovers from previous sprint first
+  - If we could not avoid them and still want to finish them
+- Work without deadlines
+  - Unless there is not way to avoid a deadline
+- Finish the MVP first if a deadline is set
+  - We finalise the delivery as a whole after
+- Want to have dependencies done before starting implementation
+- Split up projects into small batch deliveries
+  - To avoid big bang project releases 
 - Do not jeopardise quality
   - We rather cut scope, spend more time on the issue or, if applicable, include more developers
